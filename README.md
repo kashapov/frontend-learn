@@ -1,1 +1,18 @@
 # frontend-learn
+
+ - [React Video Course on egghead](https://egghead.io/courses/react-fundamentals)
+ - [React Video Course on reacttraining](https://online.reacttraining.com/p/reactjsfundamentals)
+ - [Redux Video Course Part 1](https://egghead.io/courses/getting-started-with-redux)
+ - [Redux Video Course Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+ - [Вебинар по ФП](https://www.youtube.com/watch?v=8nWQCcqUwR0)
+ - [Документация Redux](http://redux.js.org/) (рекомендую читать прям как книгу)
+ - [Документация React](https://facebook.github.io/react/) (аналогично)
+ - [Normalizr](https://github.com/paularmstrong/normalizr)
+ - [ImmutableJS](https://facebook.github.io/immutable-js/)
+ - [ImmutableJS - хороший доклад](https://www.youtube.com/watch?v=I7IdS-PbEgI&feature=youtu.be)
+ - [ES2015](https://learn.javascript.ru/es-modern)
+ - [Куча полезностей по Redux](https://github.com/xgrommx/awesome-redux)
+ - [Хорошая статья про react-router](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669)
+ - [Пример: Sound Redux](https://github.com/andrewngu/sound-redux)
+ - [Пример:  Асинхронные запросы в Redux](https://github.com/reactjs/redux/tree/master/examples/async)
+ - [Пример:  Пример с роутингом и редаксом](https://github.com/knowbody/redux-react-router-example-app)
