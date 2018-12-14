@@ -1,5 +1,8 @@
 # frontend-learn
 
+ - [Полное руководство по ReactJS RU](https://learn-reactjs.ru/home)
+ - [Redux documentation in russian](https://rajdee.gitbooks.io/redux-in-russian/content/docs/introduction/)
+
  - [React Video Course on egghead](https://egghead.io/courses/react-fundamentals)
  - [React Video Course on reacttraining](https://online.reacttraining.com/p/reactjsfundamentals)
  - [Redux Video Course Part 1](https://egghead.io/courses/getting-started-with-redux)
